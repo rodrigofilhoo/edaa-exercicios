@@ -1,0 +1,10 @@
+pub mod ex01_verificar_primeiro;
+pub mod ex02_somar_lista;
+pub mod ex03_busca_binaria;
+pub mod ex04_pares_com_soma;
+pub mod ex05_imprimir_pares_e_pares;
+pub mod ex06_potencias_de_dois;
+pub mod ex07_fibonacci_recursivo;
+pub mod ex08_ordenacao_bolha;
+pub mod ex09_produto_de_matrizes;
+pub mod ex10_merge_sort;
