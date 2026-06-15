@@ -1,0 +1,4 @@
+[package]
+name = "exercicios_tads_lineares"
+version = "0.1.0"
+edition = "2021"
